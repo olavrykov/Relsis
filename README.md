@@ -3,4 +3,4 @@
 ## 3d generation of Relsis SDS / SMS
 
 ## Язык программирования 
-> JavaSсript, C++
+> C++, JavaSсript
