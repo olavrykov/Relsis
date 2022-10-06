@@ -2,7 +2,12 @@
 
 Таблица строк
 --------------
-
+addr1-1     2b  
+  addr1-2   2b
+  addr1-3   2b
+addr2-1     2b
+  addr2-2   2b
+  addr2-3   2b
 
 scode 
 
