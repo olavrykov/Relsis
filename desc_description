@@ -2,14 +2,26 @@
 
 Таблица строк
 --------------
-addr1-1     2b  
-  addr1-2   2b
-  addr1-3   2b
-addr2-1     2b
-  addr2-2   2b
-  addr2-3   2b
+<size>      2b  ; 
+offs1-1     2b  ; lang 1
+  offs1-2   2b  ; lang 2
+  offs1-3   2b  ; lang 3
+offs2-1     2b  ; lang 1
+  offs2-2   2b  ; lang 2
+  offs2-3   2b  ; lang 3
+...
 
-scode 
+значения строк
+--------------
+offs1-1:    <short str 1 lang 1> 0x00 <long str lang 1> 0x00
+offs1-2:    <short str 1 lang 2> 0x00 <long str lang 2> 0x00
+...
+
+; адрес строки =  адрес Таблицы строк + смещение строки + смещение языка
+; short str - в кодировке прибора
+; long str - в кодировке Windows
+
+
 
 
 Зона измерений
