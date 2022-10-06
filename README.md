@@ -1,3 +1,3 @@
-# sds
+# sds / sms
 
-3d generation of Relsis SDS / SMS
+## 3d generation of Relsis SDS / SMS
