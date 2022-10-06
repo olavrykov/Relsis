@@ -1,8 +1,16 @@
 2022-10-06 sds3/sms3
 
+Таблица языков
+--------------
+<size>      b  ; <N>
+code        2b ; EN
+code        2b ; UA
+code        2b ; RU
+
+
 Таблица строк
 --------------
-<size>      2b  ; 
+<size>      2b  ; <total> / <N> 
 offs1-1     2b  ; lang 1
   offs1-2   2b  ; lang 2
   offs1-3   2b  ; lang 3
