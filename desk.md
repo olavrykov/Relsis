@@ -41,10 +41,10 @@ offs1-2:    <short str 1 lang 2> 0x00 <long str lang 2> 0x00
                                        признак смещения = 0000 1..1
     Код доступа             :Byte
     адрес SRAM              :Word
-    FPrimVal                :Word      ******** адрес первичного значения (SRAM)
-    FPrimValMult            :Byte      ******** порядок 10 (0,1,2,3)
-    FSecVal                 :Word      ******** адрес вторичного значения (SRAM)
-    FSecValDiv              :Byte      ******** порядок 10 (0,1,2,3)
+    FPrimVal                :Word      адрес первичного значения (SRAM)
+    FPrimValMult            :Byte      порядок 10 (0,1,2,3)
+    FSecVal                 :Word      адрес вторичного значения (SRAM)
+    FSecValDiv              :Byte      порядок 10 (0,1,2,3)
     FOffset                 :Word      смещение (если задан признак смещения)
     FShortName              :Word      **scode** (в кодировке прибора)
     FName                   :Word      **scode**
