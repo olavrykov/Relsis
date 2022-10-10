@@ -1,4 +1,4 @@
-# Relsis SDS / SMS ß 3d generation 
+# Relsis SDS / SMS - 3d generation 
 
 // # sds / sms
 
