@@ -1,7 +1,10 @@
 # Relsis SDS / SMS - 3d generation 
 
-// # sds / sms
+<!-- 
+2022-10-10
+-->
 
 
 ## Язык программирования 
-> C++, JavaSсript
+- C++
+- JavaSсript
