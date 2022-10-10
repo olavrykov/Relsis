@@ -27,7 +27,7 @@ offs1-2:    <short str 1 lang 2> 0x00 <long str lang 2> 0x00
 
 ; адрес строки =  адрес Таблицы строк + смещение строки + смещение языка
 ; short str - в кодировке прибора
-; long str - в кодировке Windows
+; long str - в кодировке Windows 1251
 
 
 
