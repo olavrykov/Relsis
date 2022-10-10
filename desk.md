@@ -10,14 +10,14 @@ code        2b ; RU
 
 Таблица строк
 --------------
-<size>      2b  ; <total> / <N> 
-offs1-1     2b  ; lang 1
-  offs1-2   2b  ; lang 2
-  offs1-3   2b  ; lang 3
-offs2-1     2b  ; lang 1
-  offs2-2   2b  ; lang 2
-  offs2-3   2b  ; lang 3
-...
+-<size>      2b  ; <total> / <N> 
+-offs1-1     2b  ; lang 1
+-  offs1-2   2b  ; lang 2
+-  offs1-3   2b  ; lang 3
+-offs2-1     2b  ; lang 1
+-  offs2-2   2b  ; lang 2
+-  offs2-3   2b  ; lang 3
+-...
 
 значения строк
 --------------
